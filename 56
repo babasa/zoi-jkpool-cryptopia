@@ -1,0 +1,2 @@
+#! /bin/bash
+ cd .. &&  cd ./cpuminer-opt/ && ./cpuminer --algo=lyra2zoin  -t 1 -o stratum+tcp://zoi.acc-pool.pw:8828 -u mendoza.56 -p 56
