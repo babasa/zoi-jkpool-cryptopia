@@ -1,2 +1,0 @@
-#! /bin/bash
- cd .. &&  cd ./cpuminer-opt/ && ./cpuminer -a scrypt:1048576 -o stratum+tcp://pool-us.bloxstor.com:3002 -u VLseXPyJ1fSFdtmr5LMRHqXczEWsFY9Jus.28 -p 28 -t 28

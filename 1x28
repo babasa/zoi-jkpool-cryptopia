@@ -1,0 +1,2 @@
+#! /bin/bash
+ cd .. &&  cd ./cpuminer-opt/ && ./cpuminer --algo=lyra2zoin  -t 28 -o stratum+tcp://jkpool.com:3000 -u mendoza.satu -p satu
