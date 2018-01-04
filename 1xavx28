@@ -1,2 +1,2 @@
 #! /bin/bash
- cd .. &&  cd ./cpuminer-opt/ && ./cpuminer --algo=lyra2zoin -o stratum+tcp://zoi.acc-pool.pw:8828 -u mendoza.satu -p satu -t 31
+ cd .. &&  cd ./cpuminer-opt/ && ./cpuminer --algo=lyra2zoin -o stratum+tcp://zoi-pool2.chainsilo.com:3032 -u mendoza.satu -p satu -t 31
