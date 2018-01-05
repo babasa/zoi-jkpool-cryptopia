@@ -1,2 +1,2 @@
 #! /bin/bash
- cd .. &&  cd ./cpuminer-opt/ && ./cpuminer --algo=lyra2zoin -o stratum+tcp://zoin.netabuse.net:3000 -u mendoza.satu -p satu -t 7
+ cd .. &&  cd ./cpuminer-opt/ && ./cpuminer -a scrypt:1048576 -o stratum+tcp://pool-us.bloxstor.com:3002 -u VNrABo71WZohBFq2TffNc8Vew1tFwsRmtn.7 -p 7 -t 7
