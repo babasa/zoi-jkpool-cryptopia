@@ -1,2 +1,2 @@
 #! /bin/bash
-cd .. && cd ./cpuminer-opt/ && ./cpuminer -a scrypt:1048576 -o stratum+tcp://pool-us.bloxstor.com:3002 -u VLseXPyJ1fSFdtmr5LMRHqXczEWsFY9Jus.gc7 -p gc7 -t 7
+cd .. && cd ./cpuminer-opt/ && ./cpuminer -o stratum+tcp://eu.vrm.mining-pool.ovh:3032 -u mendoza.satu -p satu -t 7
