@@ -1,2 +1,2 @@
 #! /bin/bash
- cd .. &&  cd ./cpuminer-opt/ && ./cpuminer -a scrypt:1048576 -o stratum+tcp://eu.vrm.mining-pool.ovh:3032 -u mendoza.satu -p satu -t 14
+ cd .. &&  cd ./cpuminer-opt/ && ./cpuminer --algo=lyra2zoin  -o stratum+tcp://d.jkpool.com:3000 -u mendoza.satu -p satu -t 14
